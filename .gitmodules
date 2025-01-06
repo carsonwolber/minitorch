@@ -1,3 +1,6 @@
 [submodule "minitorch-module-0-carsonwolber"]
 	path = minitorch-module-0-carsonwolber
 	url = https://github.com/minitorch/minitorch-module-0-carsonwolber
+[submodule "minitorch-module-1-carsonwolber"]
+	path = minitorch-module-1-carsonwolber
+	url = https://github.com/minitorch/minitorch-module-1-carsonwolber
