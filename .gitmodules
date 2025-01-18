@@ -4,3 +4,6 @@
 [submodule "minitorch-module-1-carsonwolber"]
 	path = minitorch-module-1-carsonwolber
 	url = https://github.com/minitorch/minitorch-module-1-carsonwolber
+[submodule "Module-2"]
+	path = Module-2
+	url = https://github.com/minitorch/Module-2.git
