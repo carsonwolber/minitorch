@@ -7,3 +7,6 @@
 [submodule "Module-2"]
 	path = Module-2
 	url = https://github.com/minitorch/Module-2.git
+[submodule "minitorch"]
+	path = minitorch
+	url = https://github.com/carsonwolber/minitorch.git
