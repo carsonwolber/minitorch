@@ -10,3 +10,6 @@
 [submodule "minitorch"]
 	path = minitorch
 	url = https://github.com/carsonwolber/minitorch.git
+[submodule "minitorch-module-2-carsonwolber"]
+	path = minitorch-module-2-carsonwolber
+	url = https://github.com/minitorch/minitorch-module-2-carsonwolber.git
