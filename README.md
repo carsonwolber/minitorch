@@ -1,1 +1,1 @@
-This is my work for the [minitorch](https://minitorch.github.io/) DIY library 
+This is my work for the [minitorch](https://minitorch.github.io/) DIY library. Specifically, this is the "home" repository from which my forks of the individual assignments are accessible as submodules
